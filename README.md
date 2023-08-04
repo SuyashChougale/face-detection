@@ -1,1 +1,1 @@
-# Human and face detection using YOLO nad Harcascade
+# Human and face detection using YOLO and Harcascade
